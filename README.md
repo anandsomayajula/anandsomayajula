@@ -46,19 +46,6 @@
 
 
 
-## 📚 Coursework in Computer Science and Data Science
-
-- **Data Structures and Algorithms**  
-- **Machine Learning**  
-- **Fundamentals of AI**  
-- **Algorithms and Complexity**  
-- **Applied Numerical Methods**  
-- **Digital Signal Processing**  
-
-
----
-
-
 ---
 
 ## 🌟 Get in Touch
