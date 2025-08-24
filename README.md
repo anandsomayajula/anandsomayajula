@@ -50,7 +50,7 @@
 
 ## 🌟 Get in Touch
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anand-somayajula) or reach out via email at [anandsomayajula@ucla.edu](mailto:anandsomayajula@ucla.edu) for collaboration opportunities or to discuss exciting tech projects!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anand-somayajula) or reach out via email at [anandsomayajula@cmu.edu](mailto:anandsomayajula@cmu.edu) for collaboration opportunities or to discuss exciting tech projects!
 
 
 <!---
