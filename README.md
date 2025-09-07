@@ -1,10 +1,10 @@
 
 # 👋 Hi, I'm Anand Somayajula
 
-🎓 **Mathematics of Computation Student at UCLA**  
-📍 **Los Angeles, CA**  
-📧 **[anandsomayajula@ucla.edu](mailto:anandsomayajula@ucla.edu)**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/anand-somayajula)**  
+🎓 **Computational Finance Student at CMU**  
+📍 **Pittsburgh, PA**  
+📧 **[anandsomayajula@cmu.edu](mailto:anandsomayajula@cmu.edu)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/anandsomayajula)**  
 
 ---
 
